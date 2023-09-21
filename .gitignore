@@ -1,5 +1,5 @@
 # Target Name
-led-control
+led_control
 
 # Prerequisites
 *.d

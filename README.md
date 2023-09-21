@@ -10,9 +10,21 @@
 - LED2: Orange
 
 
+## How to Build
+
+`cmake` is a prerequisite.
+
+```bash
+$ cd led-control
+$ cmake .
+$ make
+$ sudo make install
+```
+
+
 ## Example
 
-```
+```bash
 $ ./led_control on LED0
 $ ./led_control off LED1
 ```
