@@ -1,5 +1,7 @@
 # Control built-in LED indicator
 
+Control over the Tinkerboard2/2S built-in LED indicator.
+
 
 ## Usage
 
